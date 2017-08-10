@@ -1,0 +1,12 @@
+${AnsiColor.BRIGHT_YELLOW}
+      __      ___      ___           _______   ___       ____  ____   _______  
+     /""\    |"  |    |"  |         |   _  "\ |"  |     ("  _||_ " | /"     "| 
+    /    \   ||  |    ||  |         (. |_)  :)||  |     |   (  ) : |(: ______) 
+   /' /\  \  |:  |    |:  |         |:     \/ |:  |     (:  |  | . ) \/    |   
+  //  __'  \  \  |___  \  |___      (|  _  \\  \  |___   \\ \__/ //  // ___)_  
+ /   /  \\  \( \_|:  \( \_|:  \     |: |_)  :)( \_|:  \  /\\ __ //\ (:      "| 
+(___/    \___)\_______)\_______)    (_______/  \_______)(__________) \_______) 
+${AnsiColor.DEFAULT}::: ${project.name} (v${AnsiBackground.BLUE}${AnsiColor.WHITE}${project.version}${AnsiColor.DEFAULT})
+::: OS (${AnsiColor.YELLOW}${os.name}${AnsiColor.DEFAULT})
+::: JAVA (v${AnsiColor.YELLOW}${java.version}${AnsiColor.DEFAULT})
+::: Spring-Boot (v${AnsiBackground.YELLOW}${AnsiColor.WHITE}${spring-boot.version}${AnsiColor.DEFAULT})

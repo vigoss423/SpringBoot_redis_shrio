@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot_redis_shiro
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: ￧ﾎﾋ￦ﾬﾣ￥ﾮﾇ
+Implementation-Vendor-Id: SpringBoot_redis_shiro
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBoot_r
+ edis_shiro/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
